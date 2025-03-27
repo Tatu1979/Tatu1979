@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tatu1979. I´m Telecommunication and Software engineer. 
+- 👋 Hi, I’m @Tatu1979. 
 - 👀 I’m interested in learn Python and try to find out ideas to make something with Python. 
 - 🌱 I’m currently learning Python and other issues about different kind of systems and programs, but I haven´t coded much, but I understand code quite much. My coding skills is limited,but I try to make them
 better by learning all the time something new. Python is important language so I would like to make me better understand Python. Other languages are also familiar to me, but I´m not real coder. I try to update my
